@@ -1,0 +1,3 @@
+[ec2]
+# Replace with your host values when running manually
+production ansible_host=44.192.38.118 ansible_user=ubuntu ansible_port=22
